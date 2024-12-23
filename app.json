@@ -10,12 +10,12 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "917605902011;GURU;6281255369012;Ash"
+      "value": "923253980306;Ahmed Ali"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ"
+      "value": "MR-CHUZZ"
     },
     "DATABASE_URL": {
       "description": "your mongodb database url",
@@ -25,7 +25,7 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "Prince~Aop3jTIY#ONNOrAnWxNTvfxMRDwX0M5aizRDtCstMykChz9S3cBY"
     },
     "MODE": {
       "description": "mode public or private",
@@ -35,7 +35,7 @@
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
@@ -50,22 +50,22 @@
     "statusview": {
       "description": "make it true if you want bot to view status",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
       "required": false,
-      "value": ""
+      "value": "true"
     }
     },
     "buildpacks": [
